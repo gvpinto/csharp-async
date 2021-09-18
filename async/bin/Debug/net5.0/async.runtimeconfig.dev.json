@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gvpinto/.dotnet/store/|arch|/|tfm|",
+      "/Users/gvpinto/.nuget/packages"
+    ]
+  }
+}

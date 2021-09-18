@@ -1,0 +1,15 @@
+/Users/gvpinto/Workspaces/Projects/async/async/bin/Debug/net5.0/async.deps.json
+/Users/gvpinto/Workspaces/Projects/async/async/bin/Debug/net5.0/async.runtimeconfig.json
+/Users/gvpinto/Workspaces/Projects/async/async/bin/Debug/net5.0/async.runtimeconfig.dev.json
+/Users/gvpinto/Workspaces/Projects/async/async/bin/Debug/net5.0/async.dll
+/Users/gvpinto/Workspaces/Projects/async/async/bin/Debug/net5.0/ref/async.dll
+/Users/gvpinto/Workspaces/Projects/async/async/bin/Debug/net5.0/async.pdb
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.csproj.AssemblyReference.cache
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.AssemblyInfoInputs.cache
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.AssemblyInfo.cs
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.csproj.CoreCompileInputs.cache
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.dll
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/ref/async.dll
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.pdb
+/Users/gvpinto/Workspaces/Projects/async/async/obj/Debug/net5.0/async.genruntimeconfig.cache
